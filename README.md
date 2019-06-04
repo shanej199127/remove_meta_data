@@ -1,4 +1,4 @@
-# remove_meta_data
+# remove_meta_data_from_jpg_files
 This tool will remove any exeif metadata automatically from a local folder with pictures. 
 
 If there a lot of pictures (20k or more) then you can stop the script, go for a coffee and re run the script from where you left off by specifying ""skip_number" variable.
